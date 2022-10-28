@@ -1,4 +1,5 @@
 Usage: java -jar hwx.jar
+(or extract archive: java Poker.java)
 
 Main driver of the program is Poker.java
 
