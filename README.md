@@ -1,3 +1,6 @@
+
+# Java Poker
+
 Usage: java -jar hwx.jar
 (or extract archive: java Poker.java)
 
@@ -15,3 +18,7 @@ Extra information is provided in the command line as the game plays.
 
 All other code was written by Stanley Vossler.
 
+## Title Screen
+![TitleScreen](https://user-images.githubusercontent.com/79293011/215891717-8e81839b-3663-4792-af4b-c9978729142c.png)
+
+## Gameplay
