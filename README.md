@@ -22,3 +22,5 @@ All other code was written by Stanley Vossler.
 ![TitleScreen](https://user-images.githubusercontent.com/79293011/215891717-8e81839b-3663-4792-af4b-c9978729142c.png)
 
 ## Gameplay
+
+![Flush](https://user-images.githubusercontent.com/79293011/215892439-c6628315-3e00-4353-8978-134c188c5ff6.png)
