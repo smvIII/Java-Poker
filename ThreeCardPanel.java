@@ -44,7 +44,8 @@ public class ThreeCardPanel extends CardPanel
 		frameHeight = getFrameHeightOrWidth(this, 0);
 		frameWidth = getFrameHeightOrWidth(this, 1);
 			
-		cardBack = new ImageIcon("cardback.png");
+		//cardBack = new ImageIcon("cardback.png");
+		cardBack = new ImageIcon(getClass().getResource("cardback.png"));
 		handCard1 = new ImageIcon(getClass().getResource(cardx.getSuitImageStr()));
 		handCard2 = new ImageIcon(getClass().getResource(cardy.getSuitImageStr()));
 		commCard1 = new ImageIcon(getClass().getResource(carda.getSuitImageStr()));
