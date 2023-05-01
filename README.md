@@ -2,19 +2,13 @@
 # Java Poker
 Usage: `java -jar Poker.jar`
 
-Main driver of the program is Poker.java
+## Description
+This project was the final project of the course COP3252, Advanced Java Programming taken in the 2022 summer semester at Florida State University. Although this final project was a group project, I opted to tackle it alone and received high marks on it. The main driver of the program, Poker.java, utilizes Java Swing and .awt libraries to deliver the user interface. As of now, it is only a singple-player game where the human player plays against an AI. A BorderLayout was used: displaying CPU information in the North Panel, buttons and sliders in the south, and the game itself in the center.
 
+## Misc.
 Rule Set: Texas Holdem
-
-To use the interface, simply click on the buttons provides in the South Panel.
-
+To use the interface, simply click on the buttons provided in the South Panel.
 Extra information is provided in the command line as the game plays.
-
-// ** NOTE ** Files "Card.java" and "DeckOfCards.java" were modeled by an online youtube tutorials made by Jaret Wright
-// ** Title: Creating a Deck Of Cards class in Java | URL: https://www.youtube.com/watch?v=AckjW0C2vc8&t=9s&ab_channel=JaretWright
-// ** Title: Creating Card Object                   | URL: https://www.youtube.com/watch?v=_AUtutrnEP8&t=771s&ab_channel=JaretWright
-
-All other code was written by Stanley Vossler.
 
 ## Title Screen
 ![TitleScreen](https://user-images.githubusercontent.com/79293011/215891717-8e81839b-3663-4792-af4b-c9978729142c.png)
